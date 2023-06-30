@@ -1,0 +1,33 @@
+{
+  "name": "collaborative-whiteboard",
+  "version": "1.0.0",
+  "description": "A online collaborative whiteboard in real time",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shubhankarnath/Collaborative-White-Board/blob/main/app.js"
+  },
+  "keywords": [
+    "NodeJS",
+    "SocketIO",
+    "ExpressJS",
+    "Whiteboard"
+  ],
+  "author": "Ramin Sarwer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shubhankarnath/Collaborative-White-Board/blob/main/app.js"
+  },
+  "homepage": "https://github.com/shubhankarnath/Collaborative-White-Board/blob/main/#readme",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "socket.io": "^4.5.4"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
