@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/shubhankarnath/Collaborative-White-Board/blob/main/app.js"
+    "url": "https://github.com/vivekyadav20364/Collaborative-white-board.git"
   },
   "keywords": [
     "NodeJS",
@@ -19,9 +19,9 @@
   "author": "Ramin Sarwer",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/shubhankarnath/Collaborative-White-Board/blob/main/app.js"
+    "url": "https://github.com/vivekyadav20364/Collaborative-white-board.git"
   },
-  "homepage": "https://github.com/shubhankarnath/Collaborative-White-Board/blob/main/#readme",
+  "homepage": "https://github.com/vivekyadav20364/Collaborative-white-board.git/#readme",
   "dependencies": {
     "dotenv": "^16.3.1",
     "express": "^4.18.2",
